@@ -1,11 +1,9 @@
-			Last revised 10-Jan-17
+			Last revised 24-Jul-18
 
 			  Questionnaire for
 
 		 Harvard Extension School CSCI E-92:
-		   Principles of Operating Systems
-
-			     Spring 2017
+	     Principles of Operating Systems - Fall 2018
 
 
 Name:				Home/Cellular phone number:
